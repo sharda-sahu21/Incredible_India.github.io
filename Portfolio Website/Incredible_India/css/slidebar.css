@@ -1,0 +1,12 @@
+.sidebar-navigation {
+    width: 250px; 
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100%;
+}
+.content-section {
+    margin-left: 200 px; 
+   
+
+}

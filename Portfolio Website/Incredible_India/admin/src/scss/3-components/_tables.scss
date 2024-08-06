@@ -1,0 +1,53 @@
+.table {
+	thead, tbody, tfoot, tr, td, th {
+		border-color: $table-border-color;
+	}
+	
+	> :not(:last-child) > :last-child > * {
+		border-color: $table-border-color;
+	}
+}
+
+.table > tbody > tr > td {
+	vertical-align: middle;
+}
+
+// Define variables for colors, spacing, and other reusable values
+$border-color: #ddd;
+$padding: 10px;
+$max-width: 100%;
+$min-column-width: 120px;
+$table-min-width: 600px;
+
+// Container for the table with horizontal scrolling
+.table-container {
+    overflow-x: auto;
+    max-width: $max-width;
+    margin: 20px 0;
+
+    // Table styling
+    table {
+        width: 100%;
+        border-collapse: collapse;
+
+        th, td {
+            padding: $padding;
+            text-align: left;
+            border: 1px solid $border-color;
+        }
+
+        // Optional: Set minimum width for columns
+        th, td {
+            min-width: $min-column-width;
+        }
+    }
+}
+
+// Optional: You might want to handle responsive design for smaller screens
+@media (max-width: 768px) {
+    .table-container {
+        // You can adjust the max-width or other styles as needed
+        // For example, ensure the table still looks good on smaller screens
+        overflow-x: auto;
+    }
+}

@@ -1,0 +1,14 @@
+.box-video #btn-play{
+	
+	padding: 10px 16px;
+	margin: 2px 410px;
+	text-align: center;
+	border border-radius: 10px;
+}
+
+.box-video #btn-play:hover{
+background: blue ;
+color: white;
+transition: 0.5s;
+
+}

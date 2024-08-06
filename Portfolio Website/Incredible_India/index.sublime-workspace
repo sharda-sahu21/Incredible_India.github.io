@@ -1,0 +1,526 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"link"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"co",
+				"connect"
+			],
+			[
+				"b",
+				"br"
+			],
+			[
+				"li",
+				"list_item"
+			],
+			[
+				"ite",
+				"list_item"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"no",
+				"notice"
+			],
+			[
+				"exi",
+				"exit()"
+			],
+			[
+				"un",
+				"University"
+			],
+			[
+				"cou",
+				"course"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"m",
+				"maroon"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"H",
+				"html"
+			],
+			[
+				"t",
+				"table"
+			],
+			[
+				"succes",
+				"successfull"
+			],
+			[
+				"c",
+				"connect"
+			],
+			[
+				"C",
+				"Course"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"re",
+				"red"
+			],
+			[
+				"if",
+				"ife"
+			],
+			[
+				"da",
+				"Date"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"bt",
+				"btn-danger"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"prit",
+				"print_r"
+			],
+			[
+				"php",
+				"php_project"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"P",
+				"Passward"
+			],
+			[
+				"E",
+				"Email"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"text",
+				"text-shadow\tproperty"
+			],
+			[
+				"fot",
+				"font-weight\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"bac",
+				"background-attachment\tproperty"
+			],
+			[
+				"back",
+				"background-size\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"di",
+				"details\tTag"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/HTML files/coaching files/css_class3.html",
+		"/C/xampp/htdocs/Fundtec/css/styles.css",
+		"/C/xampp/htdocs/Fundtec/css/all.css",
+		"/C/xampp/htdocs/Fundtec/demo.html",
+		"/C/xampp/htdocs/Fundtec/index.html",
+		"/C/xampp/htdocs/Portfolio Website/templatemo_518_sentra/index.html",
+		"/C/xampp/htdocs/Uni_Web_0ld/cms-admin/admin_index.php",
+		"/C/xampp/htdocs/Uni_Web_0ld/cms-admin/header.php",
+		"/C/xampp/htdocs/Uni_Web_0ld/cms-admin/css/style.css",
+		"/C/xampp/htdocs/Uni_Web_0ld/Index.php",
+		"/C/xampp/htdocs/Uni_Web_0ld/cms-admin/addbox.php",
+		"/C/xampp/htdocs/Uni_Web_0ld/cms-admin/box_list.php",
+		"/C/xampp/htdocs/Uni_Web_0ld/cms-admin/box.php",
+		"/C/xampp/htdocs/Uni_Web_0ld/cms-admin/addbox_dt.php",
+		"/C/xampp/htdocs/Uni_Web_0ld/cms-admin/addbox_db.php",
+		"/C/xampp/htdocs/Uni_Web_0ld/cms-admin/orignal index/orignal.php",
+		"/C/xampp/htdocs/Uni_Web_0ld/cms-admin/box_list1.php",
+		"/C/xampp/htdocs/e_com/e_com/admin_area/includes/db.php",
+		"/C/xampp/htdocs/e_com/e_com/admin_area/insert_box.php",
+		"/C/xampp/htdocs/e_com/e_com/logout.php",
+		"/C/xampp/htdocs/e_com/e_com/admin_area/login.php",
+		"/C/xampp/htdocs/Uni_Web_0ld/Service.php",
+		"/C/xampp/htdocs/Uni_Web_0ld/cms-admin/form_list.php",
+		"/C/xampp/htdocs/Uni_Web_0ld/show_form.php",
+		"/C/xampp/htdocs/Uni_Web_0ld/cms-admin/addform_db.php",
+		"/C/xampp/htdocs/Uni_Web_0ld/cms-admin/addform.php",
+		"/C/xampp/htdocs/HTML files/form.php",
+		"/C/xampp/htdocs/HTML files/my Revision/mylog_db.php",
+		"/C/xampp/htdocs/HTML files/my Revision/mylogform.php",
+		"/C/xampp/htdocs/HTML files/Login_db.php",
+		"/C/xampp/htdocs/HTML files/Login.php",
+		"/C/xampp/htdocs/HTML files/class5_form.html",
+		"/C/xampp/htdocs/HTML files/my Revision/demo1.php",
+		"/C/xampp/htdocs/Uni_web/Index.php",
+		"/C/xampp/htdocs/Uni_web/Contact.php",
+		"/C/xampp/htdocs/Uni_web/Insert.php",
+		"/C/xampp/htdocs/Uni_web/old contact/insert.html",
+		"/C/xampp/htdocs/Uni_web/Contact3.php",
+		"/C/xampp/htdocs/Uni_web/old contact/contact.html",
+		"/C/xampp/htdocs/Uni_web/cms-admin/Contact_list.php",
+		"/C/xampp/htdocs/Jeevan Hospital/contact.php",
+		"/C/xampp/htdocs/Jeevan Hospital/index.php",
+		"/C/xampp/htdocs/Uni_web/University.php",
+		"/C/xampp/htdocs/Uni_web/demo_con",
+		"/C/xampp/htdocs/HTML files/Demo1.html",
+		"/C/xampp/htdocs/jeevan/jeevanindex.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/addque.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/addque_db.php",
+		"/C/xampp/htdocs/Uni_web/show_que.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/header.php",
+		"/C/xampp/htdocs/Uni_web/show_notice.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/msg_list.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/que_list.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/admin_index.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/addmsg.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/addmsg_db.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/addsylbs.php",
+		"/C/xampp/htdocs/Uni_web/show_sylbs.php",
+		"/C/xampp/htdocs/Uni_web/Header.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/exam_list.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/sylbs_list.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/login_db.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/logout.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/addsylbs_db.php",
+		"/C/Users/ck/Downloads/logout (1).php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/addexam.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/addexam_db.php",
+		"/C/xampp/htdocs/Uni_web/show_exam.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/index.php",
+		"/C/xampp/htdocs/Uni_web/uni_page1.php",
+		"/C/xampp/htdocs/Uni_web/Service.php",
+		"/C/xampp/htdocs/Uni_web/css/style.css",
+		"/C/xampp/htdocs/Uni_web/univer_ori1.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/addnotice.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/addnotice_db.php",
+		"/C/xampp/htdocs/Uni_web/cms-admin/orignal index/orignal.php",
+		"/C/xampp/htdocs/HTML files/uploading.php",
+		"/C/xampp/htdocs/HTML files/uploading_db.php",
+		"/C/xampp/htdocs/cms-admin/orignal index/orignal.php",
+		"/C/xampp/htdocs/cms-admin/addnotice_db.php",
+		"/C/xampp/htdocs/cms-admin/css/all.css",
+		"/C/xampp/htdocs/Uni_web/uniweb_admin_panel/admin_index.php",
+		"/C/xampp/htdocs/cms-admin/header.php",
+		"/C/xampp/htdocs/cms-admin/addnotice.php",
+		"/C/xampp/htdocs/cms-admin/index.php",
+		"/C/xampp/htdocs/Uni_web/uniweb_admin_panel/admin/login_db.php",
+		"/C/xampp/htdocs/Uni_web/uniweb_admin_panel/admin/login_form.php",
+		"/C/xampp/htdocs/Uni_web/SpringTime Free Website Template - Free-CSS.com/admin_index.php",
+		"/C/xampp/htdocs/Uni_web/login_db.php",
+		"/C/xampp/htdocs/Uni_web/login_form.php",
+		"/C/xampp/htdocs/HTML files/Login_db_1.php",
+		"/C/xampp/htdocs/Uni_web/goid-html (1)/goid-html/admin/index.php",
+		"/C/xampp/htdocs/coffee project/html/contact.php",
+		"/C/xampp/htdocs/Uni_web/header.php",
+		"/C/xampp/htdocs/HTML files/insert.php",
+		"/C/xampp/htdocs/coffee project/html/services.php",
+		"/C/xampp/htdocs/Uni_web/contactform/contactform.js",
+		"/C/xampp/htdocs/NewBiz/header.php",
+		"/C/xampp/htdocs/NewBiz/css/style.css",
+		"/C/xampp/htdocs/NewBiz/index.php",
+		"/C/xampp/htdocs/NewBiz/img/favicon.png",
+		"/C/xampp/htdocs/favicon.ico",
+		"/C/xampp/htdocs/HTML files/coaching files/profile.php",
+		"/C/xampp/htdocs/HTML files/coaching files/login_db (1).php",
+		"/C/xampp/htdocs/HTML files/my_form/insert1.php",
+		"/C/xampp/htdocs/HTML files/my_form/form1.php",
+		"/C/xampp/htdocs/HTML files/Select_change.php",
+		"/C/xampp/htdocs/HTML files/java script files/JS_class2.html",
+		"/C/Users/ck/Downloads/login_db (1).php",
+		"/C/xampp/htdocs/HTML files/java script files/Js_class1.html",
+		"/C/xampp/htdocs/HTML files/delete.php",
+		"/C/xampp/htdocs/HTML files/Update_select.php",
+		"/C/xampp/htdocs/HTML files/Final_Update.php",
+		"/C/xampp/htdocs/HTML files/coaching files/final_update.php",
+		"/C/xampp/htdocs/HTML files/select.php",
+		"/C/xampp/htdocs/HTML files/coaching files/select.php",
+		"/C/xampp/htdocs/HTML files/coaching files/file_uploading.php",
+		"/C/xampp/htdocs/HTML files/coaching files/file_uploading_db.php",
+		"/C/xampp/htdocs/HTML files/coaching files/uploading_db.php",
+		"/C/xampp/htdocs/HTML files/assets/upload/desktop.jpg",
+		"/C/xampp/htdocs/HTML files/php_class1.php",
+		"/C/xampp/htdocs/HTML files/coaching files/dom_manupulation.html",
+		"/C/xampp/htdocs/HTML files/coaching files/bootexa1.html",
+		"/C/xampp/htdocs/HTML files/mystyle.css",
+		"/C/xampp/htdocs/HTML files/class2_css.html",
+		"/C/xampp/htdocs/HTML files/class1_css.html",
+		"/C/HTML files/class5_form.html",
+		"/C/xampp/htdocs/phpclass/php_class1.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
